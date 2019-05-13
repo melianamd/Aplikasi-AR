@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="flashcard_pengacara" size="10.000000 13.327067" />
+    <ImageTarget name="flashcard_dokter" size="10.000000 13.289597" />
+    <ImageTarget name="flashcard_masinis" size="10.000000 13.380150" />
+    <ImageTarget name="flashcard_astronot" size="10.000000 13.237209" />
+    <ImageTarget name="flashcard_guru" size="10.000000 13.327067" />
+    <ImageTarget name="flashcard_pear" size="10.000000 13.915663" />
+    <ImageTarget name="flashcard_kereta" size="10.000000 13.389831" />
+    <ImageTarget name="flashcard_bike" size="10.000000 13.349012" />
+    <ImageTarget name="flashcard_jeruk" size="10.000000 13.364661" />
+    <ImageTarget name="flashcard_plane" size="10.000000 13.327067" />
+    <ImageTarget name="flashcard_car" size="10.000000 13.308270" />
+    <ImageTarget name="flashcard_boat" size="10.000000 13.327067" />
+    <ImageTarget name="flashcard_mangga" size="10.000000 13.327067" />
+    <ImageTarget name="flashcard_apel" size="10.000000 13.327067" />
+    <ImageTarget name="flashcard_semangka" size="10.000000 13.345864" />
+  </Tracking>
+</QCARConfig>

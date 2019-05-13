@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 311f4bf470bd5bf46a36b9a4572bc49d, type: 3}
+  m_Name: Paket Soal Bahasa Inggris
+  m_EditorClassIdentifier: 
+  kumpulanSoal:
+  - {fileID: 11400000, guid: b3787fb56f584b44f96473ccb65119b0, type: 2}
+  - {fileID: 11400000, guid: b00024c10564b6a488e3233afc919236, type: 2}
+  - {fileID: 11400000, guid: b7533a1edff15db4c9b08e663daf7a70, type: 2}
+  - {fileID: 11400000, guid: f751bd98cdc99ea4ba2bc1aa0ee3c81a, type: 2}
+  - {fileID: 11400000, guid: ad9c8ef553c593940b05ab708cc6a228, type: 2}
+  - {fileID: 11400000, guid: 8f9c76b10fcd9cb4ab5830b11f0ce57d, type: 2}
+  - {fileID: 11400000, guid: 97e5ad6eccc3b474c9d2ca3bbf92e9d5, type: 2}
+  - {fileID: 11400000, guid: 080a7e9834f769f46b982ab31fc52995, type: 2}
+  - {fileID: 11400000, guid: deaffd0540bd47e4496290625178d0e0, type: 2}
+  - {fileID: 11400000, guid: 3964f2b76eecfdd4da828a45b682aefc, type: 2}

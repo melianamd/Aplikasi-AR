@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2beeb329e152e9f44b7ea13aa5974f50, type: 3}
+  m_Name: Soal 7
+  m_EditorClassIdentifier: 
+  soalPertanyaan: Find a By cycle!
+  gambarPertanyaan: {fileID: 0}
+  jawabanBenar: 2
+  pilihanJawaban:
+  - {fileID: 11400000, guid: 9745ad4dbf013a24194cf9d2f65a2d52, type: 2}
+  - {fileID: 11400000, guid: b2b7f867365975047bcd66165291bdd6, type: 2}
+  - {fileID: 11400000, guid: c3679fdc4531dc84596058e7208f5bc6, type: 2}
+  - {fileID: 11400000, guid: 4312f3cee39a4b0418677ed8ccc8f66b, type: 2}

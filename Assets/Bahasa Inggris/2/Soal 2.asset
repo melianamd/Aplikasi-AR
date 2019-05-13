@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2beeb329e152e9f44b7ea13aa5974f50, type: 3}
+  m_Name: Soal 2
+  m_EditorClassIdentifier: 
+  soalPertanyaan: Find a Watermelon!
+  gambarPertanyaan: {fileID: 0}
+  jawabanBenar: 3
+  pilihanJawaban:
+  - {fileID: 11400000, guid: 316e2a8965dc8094fb2b95dddf0bae3e, type: 2}
+  - {fileID: 11400000, guid: 232f89e1b30c4974fb935b79f8a4dad1, type: 2}
+  - {fileID: 11400000, guid: b2fddcfef5777fb4596f13017252017f, type: 2}
+  - {fileID: 11400000, guid: 92faf85b08a5d6749ba3a44f162ae7d6, type: 2}

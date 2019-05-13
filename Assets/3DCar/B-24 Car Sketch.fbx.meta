@@ -1,0 +1,249 @@
+fileFormatVersion: 2
+guid: 9ab8a82aeff2a0743bc15a42cc663763
+timeCreated: 1545174852
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: $$$DUMMY.Group03.001
+    100002: //RootNode
+    100004: Camera
+    100006: Layer:SM10.001
+    100008: Layer:SM11.001
+    100010: Layer:SM12.001
+    100012: Layer:SM13.001
+    100014: Layer:SM14.001
+    100016: Layer:SM15.001
+    100018: Layer:SM16.001
+    100020: Layer:SM17.001
+    100022: Layer:SM18.001
+    100024: Layer:SM19.001
+    100026: Layer:SM20.001
+    100028: Layer:SM21.001
+    100030: Layer:SM22.001
+    100032: Layer:SM23.001
+    100034: Layer:SM24.001
+    100036: Layer:SM25.001
+    100038: Layer:SM29.001
+    100040: Layer:SMA0.001
+    100042: Layer:SMA1.001
+    100044: Layer:SMA2.001
+    100046: Layer:SMA3.001
+    100048: Layer:SMA4.001
+    100050: Layer:SMA5.001
+    100052: Layer:SMA6.001
+    100054: Layer:SMA7.001
+    100056: Layer:SMA8.001
+    100058: Layer:SMA9.001
+    100060: Layer:SMAR.001
+    100062: Sun
+    400000: $$$DUMMY.Group03.001
+    400002: //RootNode
+    400004: Camera
+    400006: Layer:SM10.001
+    400008: Layer:SM11.001
+    400010: Layer:SM12.001
+    400012: Layer:SM13.001
+    400014: Layer:SM14.001
+    400016: Layer:SM15.001
+    400018: Layer:SM16.001
+    400020: Layer:SM17.001
+    400022: Layer:SM18.001
+    400024: Layer:SM19.001
+    400026: Layer:SM20.001
+    400028: Layer:SM21.001
+    400030: Layer:SM22.001
+    400032: Layer:SM23.001
+    400034: Layer:SM24.001
+    400036: Layer:SM25.001
+    400038: Layer:SM29.001
+    400040: Layer:SMA0.001
+    400042: Layer:SMA1.001
+    400044: Layer:SMA2.001
+    400046: Layer:SMA3.001
+    400048: Layer:SMA4.001
+    400050: Layer:SMA5.001
+    400052: Layer:SMA6.001
+    400054: Layer:SMA7.001
+    400056: Layer:SMA8.001
+    400058: Layer:SMA9.001
+    400060: Layer:SMAR.001
+    400062: Sun
+    2000000: Camera
+    2100000: ',Black Nero1'
+    2100002: No Name
+    2100004: lamp  car1
+    2100006: Ceramiks y
+    2100008: ',Black Nero'
+    2100010: Ceramiks
+    2100012: glossy black
+    2100014: chrome08 210
+    2100016: glass 1
+    2100018: lamp  car
+    2100020: lamp_svet
+    2100022: gold_1
+    2300000: Layer:SM10.001
+    2300002: Layer:SM11.001
+    2300004: Layer:SM12.001
+    2300006: Layer:SM13.001
+    2300008: Layer:SM14.001
+    2300010: Layer:SM15.001
+    2300012: Layer:SM16.001
+    2300014: Layer:SM17.001
+    2300016: Layer:SM18.001
+    2300018: Layer:SM19.001
+    2300020: Layer:SM20.001
+    2300022: Layer:SM21.001
+    2300024: Layer:SM22.001
+    2300026: Layer:SM23.001
+    2300028: Layer:SM24.001
+    2300030: Layer:SM25.001
+    2300032: Layer:SM29.001
+    2300034: Layer:SMA0.001
+    2300036: Layer:SMA1.001
+    2300038: Layer:SMA2.001
+    2300040: Layer:SMA3.001
+    2300042: Layer:SMA4.001
+    2300044: Layer:SMA5.001
+    2300046: Layer:SMA6.001
+    2300048: Layer:SMA7.001
+    2300050: Layer:SMA8.001
+    2300052: Layer:SMA9.001
+    2300054: Layer:SMAR.001
+    3300000: Layer:SM10.001
+    3300002: Layer:SM11.001
+    3300004: Layer:SM12.001
+    3300006: Layer:SM13.001
+    3300008: Layer:SM14.001
+    3300010: Layer:SM15.001
+    3300012: Layer:SM16.001
+    3300014: Layer:SM17.001
+    3300016: Layer:SM18.001
+    3300018: Layer:SM19.001
+    3300020: Layer:SM20.001
+    3300022: Layer:SM21.001
+    3300024: Layer:SM22.001
+    3300026: Layer:SM23.001
+    3300028: Layer:SM24.001
+    3300030: Layer:SM25.001
+    3300032: Layer:SM29.001
+    3300034: Layer:SMA0.001
+    3300036: Layer:SMA1.001
+    3300038: Layer:SMA2.001
+    3300040: Layer:SMA3.001
+    3300042: Layer:SMA4.001
+    3300044: Layer:SMA5.001
+    3300046: Layer:SMA6.001
+    3300048: Layer:SMA7.001
+    3300050: Layer:SMA8.001
+    3300052: Layer:SMA9.001
+    3300054: Layer:SMAR.001
+    4300000: Layer:SM29.001
+    4300002: Layer:SM25.001
+    4300004: Layer:SM24.001
+    4300006: Layer:SM23.001
+    4300008: Layer:SM22.001
+    4300010: Layer:SM21.001
+    4300012: Layer:SM20.001
+    4300014: Layer:SM19.001
+    4300016: Layer:SM18.001
+    4300018: Layer:SM17.001
+    4300020: Layer:SM16.001
+    4300022: Layer:SM15.001
+    4300024: Layer:SM14.001
+    4300026: Layer:SM13.001
+    4300028: Layer:SM12.001
+    4300030: Layer:SM11.001
+    4300032: Layer:SM10.001
+    4300034: Layer:SMA9.001
+    4300036: Layer:SMA8.001
+    4300038: Layer:SMA7.001
+    4300040: Layer:SMA6.001
+    4300042: Layer:SMA5.001
+    4300044: Layer:SMA4.001
+    4300046: Layer:SMA3.001
+    4300048: Layer:SMA2.001
+    4300050: Layer:SMA1.001
+    4300052: Layer:SMA0.001
+    4300054: Layer:SMAR.001
+    10800000: Sun
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

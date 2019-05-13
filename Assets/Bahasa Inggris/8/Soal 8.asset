@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2beeb329e152e9f44b7ea13aa5974f50, type: 3}
+  m_Name: Soal 8
+  m_EditorClassIdentifier: 
+  soalPertanyaan: Find a Doctor!
+  gambarPertanyaan: {fileID: 0}
+  jawabanBenar: 4
+  pilihanJawaban:
+  - {fileID: 11400000, guid: fd3337ef0b123a2409a562389626b651, type: 2}
+  - {fileID: 11400000, guid: dd626450a1832214eb218806c687ba54, type: 2}
+  - {fileID: 11400000, guid: ab179155892ff97438f338d522af0ec5, type: 2}
+  - {fileID: 11400000, guid: 6fef24d398551a04abb6a359c9d720cf, type: 2}

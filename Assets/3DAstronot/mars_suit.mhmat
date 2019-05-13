@@ -1,0 +1,44 @@
+# Material definition for mars_suit
+
+name mars_suit
+description Mars-Suit material
+ambientColor 0.3 0.3 0.3
+diffuseColor 1.0 1.0 1.0
+specularColor 0.1 0.1 0.1
+shininess 0.01
+emissiveColor 0.0 0.0 0.0
+opacity 1.0
+translucency 0.0
+
+shadeless False
+wireframe False
+transparent True
+alphaToCoverage True
+backfaceCull False
+depthless False
+
+castShadows True
+
+receiveShadows True
+
+diffuseTexture Mars-Suit_diff.png
+normalmapTexture Mars-Suit_n.png
+normalmapIntensity 1.0
+specularmapTexture Mars-Suit_r.png
+specularmapIntensity 0.4
+aomapTexture Mars-Suit_ao.png
+aomapIntensity 0.0
+
+shader shaders/glsl/litsphere
+
+shaderParam AdditiveShading 0.2
+shaderParam litsphereTexture litspheres/lit_matte.png
+
+shaderConfig ambientOcclusion False
+shaderConfig normal True
+shaderConfig bump True
+shaderConfig displacement False
+shaderConfig vertexColors False
+shaderConfig spec False
+shaderConfig transparency True
+shaderConfig diffuse True
